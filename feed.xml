@@ -11,7 +11,7 @@
       <description>Episode 36 description</description>
       <link>https://drive.google.com/file/d/1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ</link>
       <pubDate>Thu, 12 Dec 2024 14:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ" length="12345678" type="video/mp4"/>
+      <enclosure url="https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ" length="12345678" type="video/mp4"/>
     </item>
   </channel>
 </rss>
