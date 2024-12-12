@@ -6,13 +6,12 @@
     <description>Soccer podcast</description>
     <language>he</language>
 
-    <!-- Episode 36 Example -->
     <item>
       <title>Episode 36</title>
       <description>Episode 36 description</description>
       <link>https://drive.google.com/file/d/1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ</link>
       <pubDate>Thu, 12 Dec 2024 14:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ" length="12345678" type="video/mp4"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YJSVuVnz_a9YTOH4zjDDBo5d-N46hrIQ" length="12345678" type="video/mp4"/>
     </item>
   </channel>
 </rss>
